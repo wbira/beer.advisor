@@ -1,0 +1,22 @@
+{
+  "name": "beer.advisor",
+  "version": "1.0.0",
+  "description": "Bot application for beek geeks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "beer",
+    "craft",
+    "bot",
+    "botbuilder",
+    "luis",
+    "craftbeer"
+  ],
+  "author": "Waldemar Bira",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.2.3"
+  }
+}
