@@ -17,6 +17,7 @@
   "author": "Waldemar Bira",
   "license": "MIT",
   "dependencies": {
-    "botbuilder": "^3.2.3"
+    "botbuilder": "^3.2.3",
+    "node-untappd": "^0.4.1"
   }
 }
